@@ -1,30 +1,16 @@
-## Welcome to GitHub Pages
+## 主页 - 任务管理器
+访问 [Github](https://github.com/taskmanager100/) 
+#排版示例
+# 大标题
+## 普通标题
+### 小标题
 
-You can use the [editor on GitHub](https://github.com/taskmanager100/taskmanager100.github.io/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
+- 快速
+- 简洁
+1. 下载软件
+2. 打开软件
+**警告**  _请勿处理过大文件_  `>= 1 GB` 
 [Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
