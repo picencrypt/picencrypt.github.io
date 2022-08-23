@@ -9,3 +9,5 @@
 **B**  _I_  `C` 
 
 [空白页](about:blank)  ![任务管理器](favicon.ico)
+# 2022.8.23
+## [WSA Windows 11 一键 Root](2022-08-23-91B728C8-F544-9A36-8233-CDECDA96B7C8)
