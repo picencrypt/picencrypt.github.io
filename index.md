@@ -1,5 +1,5 @@
-## 主页 - 任务管理器
-访问 [Github](https://github.com/taskmanager100/) 
+## 深度电脑站
+访问 [Github](https://github.com/deepinclub/) 
 
 # A
 ## A
@@ -8,6 +8,6 @@
 1. 
 **B**  _I_  `C` 
 
-[空白页](about:blank)  ![任务管理器](favicon.ico)
+[空白页](about:blank)  ![Deepin](favicon.ico)
 # 2022.8.23
-## [WSA Windows 11 一键 Root](2022-08-23-91B728C8-F544-9A36-8233-CDECDA96B7C8)
+## [跨平台 App 兼容 (Windows, Linux, Android / macOS, iOS)](2022-08-23-91B728C8-F544-9A36-8233-CDECDA96B7C8)
