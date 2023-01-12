@@ -1,3 +1,3 @@
 # [deepin](deepinclub.github.io)
-Deepin - The cool computer operating system
+PicEncrypt - The modern picture encrypter
 ![icon](favicon.svg)
