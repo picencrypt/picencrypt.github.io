@@ -1,2 +1,2 @@
 ## PicEncrypt
-# [Start encrypting pictures](web)
+# [Start encrypting pictures](workspace)
