@@ -1,2 +1,2 @@
-# [deepin](deepinclub.github.io)
+# [PicEncrypt](https://picencrypt.github.io)
 PicEncrypt - The modern picture encrypter
