@@ -1,2 +1,2 @@
 ## PicEncrypt
-# [Start](web)
+# [Start encrypting pictures](web)
