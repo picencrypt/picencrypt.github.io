@@ -1,2 +1,2 @@
 ## Citrus Tool Box
-!Citrus](favicon.svg)
+![Citrus](favicon.svg)
