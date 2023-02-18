@@ -1,5 +1,4 @@
 # PicEncrypt
-## Desktop App (Windows11 macOS GNU/Linux)
-[Download](https://github.com/picencrypt/PicEncrypt/releases/tag/v1.2.1)
-## Web
-[Open](workspace)
+PicEncrypt is an app to encrypt pictures or compress files into pictures and it works! Click the link below to download. The PicEncrypt Project built on both Web and Electron.
+[Download](https://github.com/picencrypt/PicEncrypt/releases)
+[Open in browser](workspace)
