@@ -1,2 +1,2 @@
 # [PicEncrypt](https://picencrypt.github.io)
-PicEncrypt - The modern picture encrypter
+PicEncrypt - Encrypt anything to pictures
