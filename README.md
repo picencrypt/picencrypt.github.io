@@ -1,2 +1,2 @@
-# [PicEncrypt](https://picencrypt.github.io)
+# [PicEncrypt](https://picencrypt.netlify.app)
 PicEncrypt Toolkit Launching Page
